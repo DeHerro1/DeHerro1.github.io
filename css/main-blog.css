@@ -96,14 +96,17 @@ a{
 
 .facebook{
     background-image: url(images/facebook.png);
+    background-color: red;
 }
 
 
 .twitter{
     background-image: url(images/twitter.png);
+    background-color: blue;
 }
 
 
 .link{
     background-image: url(images/linkedIn.png);
+    background-color: black;
 }
