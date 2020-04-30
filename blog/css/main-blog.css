@@ -61,7 +61,6 @@
 #un-list{
     display: flex;
     flex-direction: row;
-    height: inherit;
     list-style: none;
     justify-content: center;
     width: 100%;
