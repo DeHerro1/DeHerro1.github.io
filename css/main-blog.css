@@ -100,12 +100,11 @@ a{
 
 
 .twitter{
-    /*background-image: url(images/twitter.png);*/
-    background-color: blue;
+    background-image: url(../images/twitter.png);
 }
 
 
 .link{
-   /* background-image: url(images/linkedIn.png);*/
-    background-color: black;
+    background-image: url(../images/linkedIn.png);
+    
 }
