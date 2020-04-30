@@ -1,6 +1,6 @@
-@import url(css/second-index.css);
-@import url(css/medium-screen.css);
-@import url(css/wider-screen.css);
+@import url("css/second-index.css");
+@import url("css/medium-screen.css");
+@import url("css/wider-screen.css");
 *{
     margin: 0;
     padding: 0;
