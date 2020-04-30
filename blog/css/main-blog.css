@@ -94,7 +94,8 @@ a{
 
 
 .facebook{
-    background-image: url(images/facebook.png);
+   /* background-image: url(images/facebook.png); */
+ background : yellow;
 }
 
 
